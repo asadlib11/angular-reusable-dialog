@@ -1,5 +1,8 @@
 # AngularReusableDialog
 
+### This project is an implementation of creation of a reusable modal dialog in angular. You can add your desired information in the reusable modal and inject action methods if youre not cancelling/closing the modal dialog. This project uses angular material to create modals
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
 
 ## Development server
