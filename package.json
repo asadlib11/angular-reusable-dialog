@@ -1,5 +1,6 @@
 {
   "name": "angular-reusable-dialog",
+  "author": "Asad Ali Baloch",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -12,10 +13,12 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "~9.0.2",
+    "@angular/cdk": "^9.1.0",
     "@angular/common": "~9.0.2",
     "@angular/compiler": "~9.0.2",
     "@angular/core": "~9.0.2",
     "@angular/forms": "~9.0.2",
+    "@angular/material": "^9.1.0",
     "@angular/platform-browser": "~9.0.2",
     "@angular/platform-browser-dynamic": "~9.0.2",
     "@angular/router": "~9.0.2",
